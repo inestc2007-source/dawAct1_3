@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 30px;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: darkblue;
+}
+
+li {
+    margin: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
